@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**mbaffico/mbaffico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🏫 I'm a Project Manager with 2 years of experience leading enterprise healthcare technology implementations.
 
-Here are some ideas to get you started:
+🚀 Naturally curious and data-driven, I enjoy exploring how things work—and using data to uncover insights that lead to real-world impact. I’m passionate about problem-solving, continuous improvement, and building thoughtful solutions through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I'm focused on roles that sit at the intersection of data, implementation, and user impact—where I can translate insights into strategic decisions and scalable systems, such as Business Analysis, Data Analysis, Product Management, and Implementation Analysis.
+
+## 📁 Check out my work!
+
+- 🚲 [Cyclistic Case Study](https://github.com/mbaffico/cyclistic-case-study)  
+  Behavioral analysis of Chicago bike-share users using SQL and Tableau.
+
+## 🧠 Some of my skills & tools are
+**Languages:** SQL, R-Studio, Stata, Spreadsheets  
+**Platforms:** Tableau, BigQuery, GitHub, Kaggle  
+**Strengths:** Data analysis & visualization, problem-solving, project management, stakeholder communication, critical-thinking
+
+## 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/martin-baffico-balharry/) · [Email](mailto:martin.baffico@gmail.com)
