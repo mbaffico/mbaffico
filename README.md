@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there! | ¡Hola! | Salut ! | こんにちは | Ciao | 你好 | 안녕하세요
+
+Welcome to my GitHub—I'm Martin, a data-driven project manager who loves solving problems through analysis and storytelling.
 
 👨‍🏫 I'm a Project Manager with 2 years of experience leading enterprise healthcare technology implementations.
 
