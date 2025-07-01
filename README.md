@@ -2,9 +2,9 @@
 
 👨‍🏫 Welcome to my GitHub—I'm Martin, a data-driven project manager who loves solving problems through analysis and storytelling. I have 2 years of experience leading enterprise healthcare technology implementations.
 
-🚀 Naturally curious and data-driven, I enjoy exploring how things work—and using data to uncover insights that lead to real-world impact. I’m passionate about problem-solving, continuous improvement, and building thoughtful solutions through technology.
+🚀 Naturally curious and data-driven, I enjoy exploring how things work, and using data to uncover insights that lead to real-world impact. I’m passionate about problem-solving, continuous improvement, and building thoughtful solutions through technology.
 
-🎯 I'm focused on roles that sit at the intersection of data, implementation, and user impact—where I can translate insights into strategic decisions and scalable systems, such as Business Analysis, Data Analysis, Product Management, and Implementation Analysis.
+🎯 I'm focused on roles that sit at the intersection of data, implementation, and user impact, where I can translate insights into strategic decisions and scalable systems, such as Business Analysis, Data Analysis, Product Management, and Implementation Analysis.
 
 ## 📁 Check out my work!
 
